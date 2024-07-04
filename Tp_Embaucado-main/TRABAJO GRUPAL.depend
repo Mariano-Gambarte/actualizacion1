@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1717854452 source:c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1717854788 source:c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\main.cpp
+	<iostream>
+	<cstdlib>
+	"juego.h"
+
+1717854969 source:c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1717854559 c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\menu.h
+
+1717854937 source:c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\juego.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funciones.h"
+
+1717854727 c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\juego.h
+
+1717854194 c:\users\lab\desktop\archivos codeblocks\proyecto\trabajo grupal\funciones.h
+
+1718463167 source:c:\users\lab\downloads\trabajo grupal\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1718463179 source:c:\users\lab\downloads\trabajo grupal\juego.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funciones.h"
+
+1718454731 c:\users\lab\downloads\trabajo grupal\menu.h
+
+1718463167 c:\users\lab\downloads\trabajo grupal\funciones.h
+
+1718460586 source:c:\users\lab\downloads\trabajo grupal\main.cpp
+	<iostream>
+	<cstdlib>
+	"juego.h"
+	<ctime>
+
+1718454731 c:\users\lab\downloads\trabajo grupal\juego.h
+
+1718454731 source:c:\users\lab\downloads\trabajo grupal\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1718474907 source:c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1718463410 source:c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\juego.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funciones.h"
+
+1718463410 c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\menu.h
+
+1718463410 c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\funciones.h
+
+1718463410 source:c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\main.cpp
+	<iostream>
+	<cstdlib>
+	"juego.h"
+	<ctime>
+
+1718463410 c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\juego.h
+
+1718463410 source:c:\users\mariano\downloads\tp-embaucado-main\tp-embaucado-main\trabajo grupal\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1719672241 source:c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
+1719671968 source:c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\juego.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funciones.h"
+	<stdlib.h>
+
+1718840572 c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\menu.h
+
+1719672823 c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\funciones.h
+
+1719671385 source:c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\main.cpp
+	<iostream>
+	<cstdlib>
+	"juego.h"
+	<ctime>
+
+1718840572 c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\juego.h
+
+1718840572 source:c:\users\lab\desktop\nueva carpeta (2)\tp_embaucado-main\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1719856179 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
+1719857666 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\juego.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funciones.h"
+	<stdlib.h>
+
+1718840572 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\menu.h
+
+1719856117 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.h
+
+1719671385 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\main.cpp
+	<iostream>
+	<cstdlib>
+	"juego.h"
+	<ctime>
+
+1718840572 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\juego.h
+
+1718840572 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\menu.cpp
+	<iostream>
+	<cstdlib>
+
