@@ -107,13 +107,13 @@
 	<iostream>
 	<cstdlib>
 
-1719856179 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.cpp
+1720210100 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.cpp
 	<iostream>
 	<cstdlib>
 	<ctime>
 	<stdlib.h>
 
-1719857666 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\juego.cpp
+1720209714 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\juego.cpp
 	<iostream>
 	<cstdlib>
 	"menu.h"
@@ -122,7 +122,7 @@
 
 1718840572 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\menu.h
 
-1719856117 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.h
+1720264297 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\funciones.h
 
 1719671385 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\main.cpp
 	<iostream>
@@ -132,7 +132,7 @@
 
 1718840572 c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\juego.h
 
-1718840572 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\menu.cpp
+1720197681 source:c:\users\mariano\downloads\tp_embaucado-main\tp_embaucado-main\menu.cpp
 	<iostream>
 	<cstdlib>
 

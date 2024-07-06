@@ -73,6 +73,7 @@ void generarNombre(string &jugador1, string &jugador2)
     char confirmacion;
     do
     {
+
         cout << "ingrese el nombre del Jugador1 : ";
         cin >> jugador1;
         cout << "ingrese el nombre del Jugador2 : ";
@@ -258,13 +259,39 @@ void generarDesempate(int vec1[], int vec2[],string jugador1, string jugador2)
     Mayorpuntaje2 = mayorVector(vec2,3);
     if(Mayorpuntaje1>Mayorpuntaje2)
     {
-       cout << "Ganador jugador: " << jugador1;
+        cout << "Ganador jugador: " << jugador1;
     }
-    else if (Mayorpuntaje2>Mayorpuntaje1){
+    else if (Mayorpuntaje2>Mayorpuntaje1)
+    {
         cout << "Ganador jugador: " << jugador2;
     }
-    else {
-     cout   << "Es un empate";
+    else
+    {
+        cout   << "Es un empate";
     }
 }
 
+void mostrarEstadisticas (int vec1[], int vec2[], string jugador1, string jugador2)
+{
+    limpiarVector(vec1,3);
+    cout << "las estadisticas de :" << jugador1 << endl;
+    cout << "son :"<< endl << vec1[0] << endl << vec1[1] << endl << vec1[2]<< endl;
+    limpiarVector(vec2,3);
+    cout << "las estadisticas de :" << jugador2 << endl;
+    cout << "son :"<< endl << vec2[0] << endl << vec2[1] << endl << vec2[2]<< endl;
+    system("pause");
+}
+void mostrarCreditos ()
+{
+    string  nombre1="Mariano Gambarte";
+    string nombre2= "Luciano Barraza";
+    string  nombre3="Garcia Francisco";
+
+
+
+    cout<< "creditos a las siguientes personas: "<< endl;
+    cout<< "================  "<< nombre1 << "  ================" <<endl;
+    cout<< "================  "<< nombre2  << "  ================" <<endl;
+    cout<< "================  "<< nombre3 << "  ================" <<endl;
+    system("pause");
+}

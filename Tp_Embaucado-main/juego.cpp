@@ -35,9 +35,14 @@ void jugarJuego()
             break;
         case 2:
             cout << "Estadisticas de juego" << endl;
-            // Aquí puedes mostrar las opciones del juego
+            mostrarEstadisticas( puntajeJugador1, puntajeJugador2, jugador1, jugador2);
+            system("cls");
             break;
         case 3:
+            mostrarCreditos();
+            system("cls");
+            break;
+        case 4:
             cout << "Saliendo del juego..." << endl;
             break;
         default:
@@ -46,7 +51,7 @@ void jugarJuego()
         }
         cout << endl;
     }
-    while (opcion !=3);
+    while (opcion !=4);
 }
 
 

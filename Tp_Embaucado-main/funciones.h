@@ -20,4 +20,6 @@ int sumarVector(int vec[], int tam);
 void generarGanador(int j1[],int j2[], string n1, string n2);
 int mayorVector(int vec[], int tam);
 void generarDesempate(int vec1[], int vec2[], string jugadore1, string jugador2);
+void mostrarEstadisticas (int vec1[],int vec2[], string jugador1, string jugador2);
+void mostrarCreditos ();
 #endif // FUNCIONES_H_INCLUDED
